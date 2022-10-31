@@ -5,13 +5,16 @@ body {
     margin: 0px;
 }
 
-#background-box {
-    background-image: url(pictures.jpg/background.jpeg);
+.background {
+    width: auto;
+    height: auto;
+    background-image: url(Images/background.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
-    height: 500px;
-    margin: 0px;
-    padding: 0px;
+    background-position: center center;
+    text-align: center;
+    margin: auto;
+    padding: 0;
 }
 
 nav {
