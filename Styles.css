@@ -63,6 +63,13 @@ a:link, a:visited {
     padding: 2%;
 }
 
+.signup {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 5%;
+    color: white;
+}
 
 .center {
     text-align: center;
